@@ -24,9 +24,12 @@ IT Support Engineer with hands-on experience in system administration and AWS cl
 - Installed Apache web server
 - Hosted static website
 
-Evidence:
+Markdown
+##Evidence
+![EC2 Instance Running](EC2-INSTANCE.png)
 - EC2 instance running screenshot 
 EC2 Linux server deployed and web hosting Configured
+
 --
 
 ## IAM Security Setup
