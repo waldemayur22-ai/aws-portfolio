@@ -30,7 +30,7 @@ Markdown
 ![EC2 Instance Running](EC2-INSTANCE.png)
 
 Markdown
-![Security Group](Securitygroup.png)
+![Security Group](Security-group.png)
 
 Markdown
 ![Terminal](Terminal.png)
