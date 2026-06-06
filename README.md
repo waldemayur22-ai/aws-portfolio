@@ -30,14 +30,14 @@ Markdown
 ![EC2 Instance Running](EC2-INSTANCE.png)
 
 Markdown
-![Security Group](Security-group.png)
+![Security Group](Securitygroup.png)
 
 Markdown
 ![Terminal](Terminal.png)
 
 EC2 Linux server deployed and web hosting Configured
 Markdown
-![Webpage Output](Webpage-open.png)
+![Webpage Output](Webpageopen.png)
 
 
 
@@ -54,19 +54,19 @@ Markdown
 proof:- Evidence:
 
 Markdown
-![Bucket overview](Bucket-overview.png)
+![Bucket overview](Bucketoverview.png)
 
 Markdown
-![Bucket Policy](Bucket-policy.png)
+![Bucket Policy](Bucketpolicy.png)
 
 Markdown
-![Static Website Hosting](Static-website-hosting.png)
+![Static Website Hosting](Staticwebsitehosting.png)
 
 Markdown
-![Public Access Settings](Public-access-settings.png)
+![Public Access Settings](Publicaccesssettings.png)
 
 Markdown
-![Live Website](Live-website.png)
+![Live Website](Livewebsite.png)
 
 
 S3 static website hosted with public access and policy Deployed
@@ -84,13 +84,13 @@ proof:- Evidence
 IAM users, roles and MFA security Verified and tested
 AWS Identity and Access Management
 Markdown
-![Users List](Users-list.png)
+![USERS LIST](USERSLIST.png)
 
 Markdown
-![Group Permissions](Group-permissions-(viewers,Admins).png)
+![GROUP PERMISSION](GROUPPERMISSION(viewers,Admins).png)
 
 Markdown
-![ENABLE MFA](ENABLE-MFA.png)
+![ENABLE MFA](ENABLEMFA.png)
 
 --
 
