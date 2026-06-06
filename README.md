@@ -31,7 +31,7 @@ Markdown
 
 Markdown
 ##Evidence
-![Security Group](Security-group.png)
+![Security Group](SECURITY-GROUP.png)
 
 Markdown
 ![Terminal](Terminal.png)
