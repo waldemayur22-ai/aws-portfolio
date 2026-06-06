@@ -1,5 +1,8 @@
 Markdown
 
+LIVE PROJECT STATUS: COMPLETED
+AWS Hands-on Experience Verified
+
 # AWS Cloud Portfolio
 
 ##  Name: Mayur Walde
