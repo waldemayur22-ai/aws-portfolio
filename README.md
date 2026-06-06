@@ -50,22 +50,23 @@ Markdown
 
 
 
-proof:- Evidence:
+proof:- 
+##Evidence:
 
 Markdown
-![Bucket overview](Bucketoverview.png)
+![Bucket overview](BUCKET-OVERVIEW.png)
 
 Markdown
-![Bucket Policy](Bucketpolicy.png)
+![Bucket Policy](BUCKET-POLICY.png)
 
 Markdown
-![Static Website Hosting](Staticwebsitehosting.png)
+![Static Website Hosting](STATIC-WEBSITE-HOSTING.png)
 
 Markdown
-![Public Access Settings](Publicaccesssettings.png)
+![Public Access Settings](PUBLIC-ACCESS-SETTINGS.png)
 
 Markdown
-![Live-Website](Live-website.png)
+![Live-Website](LIVE-WEBSITE.png)
 
 
 S3 static website hosted with public access and policy Deployed
@@ -83,13 +84,15 @@ proof:- Evidence
 IAM users, roles and MFA security Verified and tested
 AWS Identity and Access Management
 Markdown
-![USERS LIST](USERSLIST.png)
+![USERS LIST](USERS-LIST.png)
 
 Markdown
-![GROUP PERMISSION](GROUPPERMISSION(viewers,Admins).png)
+![GROUP PERMISSION(ADMINS)](GROUP-PERMISSION-(Admins)).png)
+![GROUP PERMISSION(VIEWERS)](GROUP-PERMISSION-(VIEWERS)).png)
 
 Markdown
-![ENABLE MFA](ENABLEMFA.png)
+
+![ENABLE MFA](ENABLE-MFA.png)
 
 --
 
