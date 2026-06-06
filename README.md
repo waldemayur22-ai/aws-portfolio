@@ -62,5 +62,8 @@ To become a Cloud Support Engineer and grow into Cloud / DevOps roles.
 ---
 
 # PROJECT PROOF
-Screenshots and implemantation details available in repository folders
-
+- Bucket created and files uploaded
+- Static website hosting enabled
+- Public access configured
+- Bucket policy applied
+- Website successfully accessible via endpoint URL
