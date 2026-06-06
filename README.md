@@ -27,21 +27,19 @@ IT Support Engineer with hands-on experience in system administration and AWS cl
 Markdown
 ##Evidence
 ![EC2 Instance Running](EC2-INSTANCE.png)
-![EC2 apache] (Terminal.png)
+
+Markdown
+![Security Group] (security.png)
+
+Markdown
+![Terminal](Terminal.png)
+
+Markdown
+![Webpage Output](Webpage open.png)
 
 - EC2 instance running screenshot 
 EC2 Linux server deployed and web hosting Configured
 
---
-
-## IAM Security Setup
-- Created Admin & Readonly users
-- Assigned IAM policies
-- Enabled MFA authentication
-- Tested access control (role-based access)
-
-proof:- IAM SC
-IAM users, roles and MFA security Verified and tested
 --
 
 ## S3 Static Website Hosting
@@ -50,10 +48,53 @@ IAM users, roles and MFA security Verified and tested
 - Upload HTML files
 - Configured public access
 
-proof:- ADD S3 SC
+
+
+proof:- Evidence:
+
+Markdown
+![Bucket Overview](Bucket overview.png)
+
+Markdown
+![Bucket Policy](Bucket policy.png)
+
+Markdown
+![Static Website Hosting](Static website hosting.png)
+
+Markdown
+![Public Access Settings](Public access settings.png)
+
+Markdown
+![Live Website](Live website.png)
+
+
 S3 static website hosted with public access and policy Deployed
 http://my-aws-site-2205.s3-website-us-east-1.amazonaws.com/
+
+
+
 ---
+
+## IAM Security Setup
+- Created Admin & Readonly users
+- Assigned IAM policies
+- Enabled MFA authentication
+- Tested access control (role-based access)
+
+proof:- Evidence
+IAM users, roles and MFA security Verified and tested
+AWS Identity and Access Management
+Markdown
+![Users List](Users list.png)
+
+Markdown
+![Group Permissions](Group permissions (viewers & Admins).png)
+
+Markdown
+![MFA Enabled](MFA enabled.png)
+
+
+--
 
 # Skills
 - AWS (EC2, IAM, S3)
@@ -76,7 +117,7 @@ To become a Cloud Support Engineer and grow into Cloud / DevOps roles.
 - Website successfully accessible via endpoint URL
 
 
-# KEY LEARNINGS
+# KEY LEARNING
 - AWS EC2 deployment lifecycle
 - IAM role-based access control (RBAC)
 - S3 static website hosting
