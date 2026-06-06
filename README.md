@@ -30,15 +30,16 @@ Markdown
 ![EC2 Instance Running](EC2-INSTANCE.png)
 
 Markdown
-![Security Group](security.png)
+![Security Group](Security-group.png)
 
 Markdown
 ![Terminal](Terminal.png)
 
-Markdown
-![Webpage Output](Webpage output.png)
-
 EC2 Linux server deployed and web hosting Configured
+Markdown
+![Webpage Output](Webpage-open.png)
+
+
 
 --
 
@@ -53,25 +54,23 @@ EC2 Linux server deployed and web hosting Configured
 proof:- Evidence:
 
 Markdown
-![Bucket overview](Bucket overview.png)
+![Bucket overview](Bucket-overview.png)
 
 Markdown
-![Bucket Policy](Bucket policy.png)
+![Bucket Policy](Bucket-policy.png)
 
 Markdown
-![Static Website Hosting](Static website hosting.png)
+![Static Website Hosting](Static-website-hosting.png)
 
 Markdown
-![Public Access Settings](Public access settings.png)
+![Public Access Settings](Public-access-settings.png)
 
 Markdown
-![Live Website](Live website.png)
+![Live Website](Live-website.png)
 
 
 S3 static website hosted with public access and policy Deployed
 http://my-aws-site-2205.s3-website-us-east-1.amazonaws.com/
-
-
 
 ---
 
@@ -85,13 +84,13 @@ proof:- Evidence
 IAM users, roles and MFA security Verified and tested
 AWS Identity and Access Management
 Markdown
-![Users List](Users list.png)
+![Users List](Users-list.png)
 
 Markdown
-![Group Permissions](Group permissions (viewers & Admins).png)
+![Group Permissions](Group-permissions-(viewers,Admins).png)
 
 Markdown
-![MFA Enabled](MFA enabled.png)
+![MFA Enabled](MFA-enabled.png)
 
 
 --
