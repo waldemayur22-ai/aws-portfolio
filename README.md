@@ -24,8 +24,9 @@ IT Support Engineer with hands-on experience in system administration and AWS cl
 - Installed Apache web server
 - Hosted static website
 
-proof:- EC2 SC
-EC2 Linux server deployed and web hosting verified
+Evidence:
+- EC2 instance running screenshot 
+EC2 Linux server deployed and web hosting Configured
 --
 
 ## IAM Security Setup
@@ -35,7 +36,7 @@ EC2 Linux server deployed and web hosting verified
 - Tested access control (role-based access)
 
 proof:- IAM SC
-IAM users, roles and MFA security configured and tested
+IAM users, roles and MFA security Verified and tested
 --
 
 ## S3 Static Website Hosting
@@ -45,7 +46,8 @@ IAM users, roles and MFA security configured and tested
 - Configured public access
 
 proof:- ADD S3 SC
-S3 static website hosted with public access and policy configuration
+S3 static website hosted with public access and policy Deployed
+http://my-aws-site-2205.s3-website-us-east-1.amazonaws.com/
 ---
 
 # Skills
@@ -67,3 +69,10 @@ To become a Cloud Support Engineer and grow into Cloud / DevOps roles.
 - Public access configured
 - Bucket policy applied
 - Website successfully accessible via endpoint URL
+
+
+# KEY LEARNINGS
+- AWS EC2 deployment lifecycle
+- IAM role-based access control (RBAC)
+- S3 static website hosting
+- Linux server management basics
