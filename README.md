@@ -38,9 +38,7 @@ Markdown
 
 EC2 Linux server deployed and web hosting Configured
 Markdown
-![Webpage Output](Webpageopen.png)
-
-
+![Webpage Output](WEBPAGE-OPEN.png)
 
 --
 
