@@ -66,7 +66,7 @@ Markdown
 ![Public Access Settings](Publicaccesssettings.png)
 
 Markdown
-![Live Website](Livewebsite.png)
+![Live-Website](Live-website.png)
 
 
 S3 static website hosted with public access and policy Deployed
