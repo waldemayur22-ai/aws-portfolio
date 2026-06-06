@@ -1,7 +1,7 @@
 Markdown
 
-LIVE PROJECT STATUS: COMPLETED
-AWS Hands-on Experience Verified
+##LIVE PROJECT STATUS: COMPLETED
+  AWS Hands-on Experience Verified
 
 # AWS Cloud Portfolio
 
@@ -25,19 +25,19 @@ IT Support Engineer with hands-on experience in system administration and AWS cl
 - Hosted static website
 
 Markdown
+- EC2 instance running screenshot 
 ##Evidence
 ![EC2 Instance Running](EC2-INSTANCE.png)
 
 Markdown
-![Security Group] (security.png)
+![Security Group](security.png)
 
 Markdown
 ![Terminal](Terminal.png)
 
 Markdown
-![Webpage Output](Webpage open.png)
+![Webpage Output](Webpage output.png)
 
-- EC2 instance running screenshot 
 EC2 Linux server deployed and web hosting Configured
 
 --
