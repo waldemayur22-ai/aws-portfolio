@@ -25,7 +25,7 @@ IT Support Engineer with hands-on experience in system administration and AWS cl
 - Hosted static website
 
 proof:- EC2 SC
-
+EC2 Linux server deployed and web hosting verified
 --
 
 ## IAM Security Setup
@@ -35,7 +35,7 @@ proof:- EC2 SC
 - Tested access control (role-based access)
 
 proof:- IAM SC
-
+IAM users, roles and MFA security configured and tested
 --
 
 ## S3 Static Website Hosting
@@ -45,7 +45,7 @@ proof:- IAM SC
 - Configured public access
 
 proof:- ADD S3 SC
-
+S3 static website hosted with public access and policy configuration
 ---
 
 # Skills
