@@ -53,7 +53,7 @@ EC2 Linux server deployed and web hosting Configured
 proof:- Evidence:
 
 Markdown
-![Bucket Overview](Bucket overview.png)
+![Bucket overview](Bucket overview.png)
 
 Markdown
 ![Bucket Policy](Bucket policy.png)
