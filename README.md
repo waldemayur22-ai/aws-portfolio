@@ -90,8 +90,7 @@ Markdown
 ![Group Permissions](Group-permissions-(viewers,Admins).png)
 
 Markdown
-![MFA Enabled](MFA-enabled.png)
-
+![MFA Enabled](ENABLE MFA.png)
 
 --
 
